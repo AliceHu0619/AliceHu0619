@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliceHu0619
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m fluent in python
 - 💞️ I’m looking to collaborate on backend developing
 - 📫 How to reach me ...
 
